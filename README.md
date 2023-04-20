@@ -34,7 +34,7 @@ I was not interested in:
 - sound
 
 I really wanted the per key LEDs and partially decided on a wired solution to get the LEDs. However, after the initial excitment of having LEDs on the 
-Planck, I decided that it didn't have a lot of value. I also wasn't sure which LEDs to order.
+Planck, I decided that it didn't have a lot of value and I could't even see them at work. I also wasn't sure which LEDs to order.
 
 
 
