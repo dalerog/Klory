@@ -12,10 +12,10 @@ Spoiler alert! I love Klory and am buiding a second for home.
 ## Why the Klor
 
 I was using a Planck Ez with a 3x5 layout in which I was not using the center 6 keys above the spacebar. I was using four thumb keys in my layout. 
-However, I felt that my thumbs were cramp and wanted a split keyboard.
+However, I felt that my thumbs were cramped and wanted a split keyboard.
 
-I started off looking for just a split Planck, but then I decided I wanted row stagger. I really liked the Corne, but I was using four thumb keys on my
-Planck layout. This was mainly because I was having trouble using the space as a layer key; the timing was causing a lot of errors. 
+I started off looking for just a split Planck, but then I decided I wanted column stagger. I really liked the Corne, but I was using four thumb keys
+on my Planck layout. This was mainly because I was having trouble using the space as a layer key; the timing was causing a lot of errors. 
 
 Therefore, the main reasons for the Klor were:
 - four thumb keys
