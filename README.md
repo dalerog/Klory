@@ -1,6 +1,10 @@
 # Klory
 A variation of the Klor keyboard by GEIGEIGEIST (https://github.com/GEIGEIGEIST/KLOR).
 
+***
+
+![Finished Klory](images/FirstKloryFinished.png)
+
 ## Introduction
 
 This is a guide to my experiences buiding Klory, my variant of the Klor keyboard. This was my first keyboard build and GEIST did an outstanding job
@@ -47,10 +51,23 @@ I decided to use the KB2040 from Adafruit. I picked it because it was cheap and 
 
 ## Parts
 
-The following is where I ordered my parts:
+Here is where I ordered the parts for my keyboard. 
 
-
-
+| Part | Vender | Notes |
+| :--- | :---   | :--- |
+| PCB  | [JLCPCB](https://jlcpcb.com) | I ordered a green PCB instead of a black one because it was 2+ days faster. Minimum order was 5. |
+| MCU  | [Adafruit](https://www.adafruit.com/product/5302) | KB2040 |
+| MX Key switch | Amazon | Kaihl Box Navy |
+| switch socket | [Adafruit](https://www.adafruit.com/product/4958) | Kaihl Switch Socket|
+| diodes 1N4148W| [Adafruit](https://www.adafruit.com/product/5099) | |
+| 1u MX keycaps | [Adafruit](https://www.adafruit.com/product/4997) | DSA keycaps in multiple colors. |
+| OLED module   | N/A | Did not use. |
+| reset button  | N/A | Did not use. |
+| ~~TRRS jack~~ JST-SH Connector | [Adafruit](https://www.adafruit.com/product/4208) | Currently, hardwired, I have purchased this instead of TRRS. |
+| ~~TRRS cable~~  JST-SH Cable | [Adafruit](https://www.adafruit.com/product/5385) | Currently, hardwired, but purchased this instead of TRRS. |
+| EC11N1524402 encoder  | [Mouser](https://www.mouser.com/ProductDetail/Alps-Alpine/EC11N1524402?qs=W%2FMpXkg%252BdQ5mmk2EdvtXAA%3D%3D) | Planning to use this one, but have not installed it yet. |
+| encoder knob  | N/A | Thinking of adapting the [Klotz Knob](https://github.com/GEIGEIGEIST/KLOTZ/tree/main/knob), but haven't yet. |
+| USB cable     | N/A | Using one I already had. I recommend a super flexible cable. Some usb-c video cables are too stiff. |
 
 
 
