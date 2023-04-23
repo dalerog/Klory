@@ -62,6 +62,8 @@ There were some teasers that there might be a low profile Choc variant. However,
 
 As a first build, I thought that a wired solution would be easier to debug and would have less failure modes. It would also work with QMK which I was used to using with the Planck. In addition, there were more options for MCUs and they would be cheaper.
 
+There are cases where the right keyboard stops communicating with the left. Since, the keyboards are wired, I can just unplug them. I use a magnetic USB adapter so this is super easy to do. 
+
 ### KB2040
 
 I decided to use the KB2040 from Adafruit. I picked it because it was cheap and and seemed very versatile. It worked with CircuitPython, C++, and Rust. It also had extra connectors, debug pins, LEDs, and reboot/reset buttons. It would be a great MCU for other projects if the keyboard didn't work out.
@@ -79,7 +81,7 @@ Here is where I ordered the parts for my keyboard.
 | diodes 1N4148W| [Adafruit](https://www.adafruit.com/product/5099) | |
 | 1u MX keycaps | [Adafruit](https://www.adafruit.com/product/4997) | DSA keycaps in multiple colors. |
 | OLED module   | N/A | Did not use. |
-| reset button  | N/A | Did not use. |
+| reset button  | N/A | Did not use. The KB2040 has a reset button on it. Also, I was building a wired version and can just unplug it. |
 | ~~TRRS jack~~ JST-SH Connector | [Adafruit](https://www.adafruit.com/product/4208) | Currently, hardwired, I have purchased this instead of TRRS. |
 | ~~TRRS cable~~  JST-SH Cable | [Adafruit](https://www.adafruit.com/product/5385) | Currently, hardwired, but purchased this instead of TRRS. |
 | EC11N1524402 encoder  | [Mouser](https://www.mouser.com/ProductDetail/Alps-Alpine/EC11N1524402?qs=W%2FMpXkg%252BdQ5mmk2EdvtXAA%3D%3D) | Planning to use this one, but have not installed it yet. |
