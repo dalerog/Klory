@@ -9,13 +9,12 @@ differences.
 
 Spoiler alert! I love Klory and am buiding a second for home.
 
-## Why the Klor
+## Why the Klor?
 
-I was using a Planck Ez with a 3x5 layout in which I was not using the center 6 keys above the spacebar. I was using four thumb keys in my layout. 
-However, I felt that my thumbs were cramped and wanted a split keyboard.
+I was using a Planck Ez. I had changed the keymap to a 3x5 layout in which I was not using the center 6 keys above the spacebar. I was using the equivalent of four (4) thumb keys in my layout. However, I felt that my thumbs were cramped as they had to fold under my hand to get to some of the keys.
 
-I started off looking for just a split Planck, but then I decided I wanted column stagger. I really liked the Corne, but I was using four thumb keys
-on my Planck layout. This was mainly because I was having trouble using the space as a layer key; the timing was causing a lot of errors. 
+I really liked the Planck Ez, but then I started wanting a split keyboard. I originally looked for a split Planck, but then I thought column
+stagger would be great and more room for my thumbs. I really liked the Corne, but I was using four thumb keys.
 
 Therefore, the main reasons for the Klor were:
 - four thumb keys
@@ -34,7 +33,21 @@ I was not interested in:
 - sound
 
 I really wanted the per key LEDs and partially decided on a wired solution to get the LEDs. However, after the initial excitment of having LEDs on the 
-Planck, I decided that it didn't have a lot of value and I could't even see them at work. I also wasn't sure which LEDs to order.
+Planck, I decided that it didn't have a lot of value. I could't even see the leds in the lighting at work. I also wasn't sure which LEDs to order.
+
+I decided to built a wired Polydactyl using the Adafruit KB2040.
+
+### Why wired?
+
+As a first build, I thought that a wired solution would be easier to debug and would have less failure modes. It would also work with QMK which I was used to using with the Planck. In addition, there were more options for MCUs and they would be cheaper.
+
+### KB2040
+
+I decided to use the KB2040 from Adafruit. I picked it because it was cheap and and seemed very versatile. It worked with CircuitPython, C++, and Rust. It also had extra connectors, debug pins, LEDs, and reboot/reset buttons. It would be a great MCU for other projects if the keyboard didn't work out.
+
+## Parts
+
+The following is where I ordered my parts:
 
 
 
