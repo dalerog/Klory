@@ -68,6 +68,8 @@ There are cases where the right keyboard stops communicating with the left. Sinc
 
 I decided to use the KB2040 from Adafruit. I picked it because it was cheap and and seemed very versatile. It worked with CircuitPython, C++, and Rust. It also had extra connectors, debug pins, LEDs, and reboot/reset buttons. It would be a great MCU for other projects if the keyboard didn't work out.
 
+***
+
 ## Parts
 
 Here is where I ordered the parts for my keyboard in the spring of 2023. This list will get stale overtime.
@@ -93,5 +95,21 @@ Here is where I ordered the parts for my keyboard in the spring of 2023. This li
 
 I was going to use the pins that come with the KB2040 and these [headers from Adafruit](https://www.adafruit.com/product/598). However, I didn't think the combination worked that well. The headers while shorter than normal are still a little tall and the pins are a little long for them.
 
-I ended up ordering these sockets from [TyperActive](https://typeractive.xyz/products/ez-machine-sockets-and-headers). They are expensive when you consider that the KB2040 itself is a $1 cheaper. However, they work well. I highly recommend getting sockets as I it nice being able to remove the MCU when you want to make a mod to your PCB. I was thinking that I could just unsolder the sockets if I wanted to move them to another board, but It isn't that easy to unsolder. I am a novive at desoldering though.
+I ended up ordering these sockets from [TyperActive](https://typeractive.xyz/products/ez-machine-sockets-and-headers). They are expensive when you consider that the KB2040 itself is a $1 cheaper. However, they work well. I highly recommend getting sockets as I it nice being able to remove the MCU when you want to make a mod to your PCB. I was thinking that I could just unsolder the sockets if I wanted to move them to another board, but It isn't that easy to unsolder. I am a novive at desoldering though. Order a couple of extras and get free shipping.
+
+### Case Parts
+
+***
+
+## Build
+
+### PCB
+
+A ordered the PCB from [JLCPCB](https://jlcpcb.com). It was by far the cheapest option. I ordered the PCB in green instead of black as it would shorten the build time by 2 days. I asked the support on JLCPCB if this would be okay and they said that it would.
+
+The minimal order was 5 pcbs. I did not like the idea of having enough PCBs for 2.5 keybaords. I did some mockups in KICAD to see if I could get two PCBs on a single file, but the cost ended up being the same as ordering 10 pcbs. So, I went with the standard PCB.
+
+![Bare PCB](images/BarePCB.png)
+
+
 
