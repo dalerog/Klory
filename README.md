@@ -70,9 +70,9 @@ I decided to use the KB2040 from Adafruit. I picked it because it was cheap and 
 
 ## Parts
 
-Here is where I ordered the parts for my keyboard. 
+Here is where I ordered the parts for my keyboard in the spring of 2023. This list will get stale overtime.
 
-| Part | Vender | Notes |
+| Part Name | Vender | Notes |
 | :--- | :---   | :--- |
 | PCB  | [JLCPCB](https://jlcpcb.com) | I ordered a green PCB instead of a black one because it was 2+ days faster. Minimum order was 5. |
 | MCU  | [Adafruit](https://www.adafruit.com/product/5302) | KB2040 |
@@ -89,5 +89,9 @@ Here is where I ordered the parts for my keyboard.
 | USB cable     | N/A | Using one I already had. I recommend a super flexible cable. Some usb-c video cables are too stiff. |
 
 
+### OPTIONAL PARTS
 
+I was going to use the pins that come with the KB2040 and these [headers from Adafruit](https://www.adafruit.com/product/598). However, I didn't think the combination worked that well. The headers while shorter than normal are still a little tall and the pins are a little long for them.
+
+I ended up ordering these sockets from [TyperActive](https://typeractive.xyz/products/ez-machine-sockets-and-headers). They are expensive when you consider that the KB2040 itself is a $1 cheaper. However, they work well. I highly recommend getting sockets as I it nice being able to remove the MCU when you want to make a mod to your PCB. I was thinking that I could just unsolder the sockets if I wanted to move them to another board, but It isn't that easy to unsolder. I am a novive at desoldering though.
 
