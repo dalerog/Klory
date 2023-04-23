@@ -31,15 +31,32 @@ There were several nice to haves:
 - KB2040 support
 - trackball support
 
+I really wished the trackball was still for sale.
+
 I was not interested in:
 - OLED
 - haptic feedback
 - sound
 
+These options did not seem that useful. Also, not all of the firmwares supported these different options.
+
+I decided to built a wired Polydactyl using the Adafruit KB2040 without LEDs.
+
+## Decisions
+
+### Polydactyl
+
+As I mentioned before, I picked the Klor for the four thumb keys. I was originally planning to build the Yubitsume layout without the extra pinkie keys. However, I was finding the pinkie reach to the P and the Q was not ideal. So, I decided to leave these keys on and experiment with using those keys as alternate pinkie keys. I have not started using these keys yet. Currently, I'm not interested in using these to give the pinkie more keys like return and delete etc. I'm more interested in fewer keys.
+
+### LEDs
+
 I really wanted the per key LEDs and partially decided on a wired solution to get the LEDs. However, after the initial excitment of having LEDs on the 
 Planck, I decided that it didn't have a lot of value. I could't even see the leds in the lighting at work. I also wasn't sure which LEDs to order.
 
-I decided to built a wired Polydactyl using the Adafruit KB2040.
+### Choc switches
+
+The only negative at this point was that I wanted low profile Choc switches. I spent time looking for an alternative to the Klor that was low profile.
+There were some teasers that there might be a low profile Choc variant. However, this did not seem likely or to happen in the timeframe I was willing to wait. I ended up decided that using MX switches allowed me to use the MX DSA keycaps that I had purchased for the Planck. I'm really happy that I went with MX switches because it gave me much more flexibility to test switches on the Planck.
 
 ### Why wired?
 
@@ -57,7 +74,7 @@ Here is where I ordered the parts for my keyboard.
 | :--- | :---   | :--- |
 | PCB  | [JLCPCB](https://jlcpcb.com) | I ordered a green PCB instead of a black one because it was 2+ days faster. Minimum order was 5. |
 | MCU  | [Adafruit](https://www.adafruit.com/product/5302) | KB2040 |
-| MX Key switch | Amazon | Kaihl Box Navy |
+| MX Key switch | Amazon | When you include shipping, you can get some better deals here than other vendors. But, I had to order 65. |
 | switch socket | [Adafruit](https://www.adafruit.com/product/4958) | Kaihl Switch Socket|
 | diodes 1N4148W| [Adafruit](https://www.adafruit.com/product/5099) | |
 | 1u MX keycaps | [Adafruit](https://www.adafruit.com/product/4997) | DSA keycaps in multiple colors. |
