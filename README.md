@@ -99,6 +99,17 @@ I ended up ordering these sockets from [TyperActive](https://typeractive.xyz/pro
 
 ### Case Parts
 
+I printed my own 3D parts and cut my own acrylic. I ended up making very different cases which I will detail later. Here are the parts I ordered:
+
+
+| Part Name | Vender | Notes |
+| :--- | :---   | :--- |
+| M2 Screws | [Amazon](https://a.co/d/6NNHfAM) | Lots of different sizes of screws gave me flexibilty when I designed my own case |
+| Bass Standoffs in mutiple sizes | [Amazon](https://a.co/d/2GAflAl)  |   |
+| Bass Standoffs - 7mm | [Amazon](https://a.co/d/j9lGEjD)  |   |
+
+After I made my Amazon orders, I ended up finding standoffs at [Keeb.io](https://keeb.io/collections/diy-parts/products/m2-screws-and-standoffs). I haven't ordered these, but have ordered other items from Keeb.io.
+
 ***
 
 ## Build
