@@ -116,11 +116,50 @@ After I made my Amazon orders, I ended up finding standoffs at [Keeb.io](https:/
 
 ### PCB
 
-A ordered the PCB from [JLCPCB](https://jlcpcb.com). It was by far the cheapest option. I ordered the PCB in green instead of black as it would shorten the build time by 2 days. I asked the support on JLCPCB if this would be okay and they said that it would.
+A ordered the PCB from [JLCPCB](https://jlcpcb.com). It was by far the cheapest option. I ordered the PCB in green instead of black as it would shorten
+the build time by 2 days. I asked the support on JLCPCB if this would be okay and they said that it would.
 
-The minimal order was 5 pcbs. I did not like the idea of having enough PCBs for 2.5 keybaords. I did some mockups in KICAD to see if I could get two PCBs on a single file, but the cost ended up being the same as ordering 10 pcbs. So, I went with the standard PCB.
+The minimal order was 5 pcbs. I did not like the idea of having enough PCBs for 2.5 keybaords. I did some mockups in KICAD to see if I could get two PCBs
+on a single file, but the cost ended up being the same as ordering 10 pcbs. So, I went with the standard PCB. 
+
+The first PCB I soldered didn't work completely correctly. All the keys worked, except for the thumb keys. They would register as all of the keys in the
+row and not just the thumbkey. I did a lot of debugging. All of the diodes were correct as far as I could determine. There is a possibility that it is a 
+grounding issue. So, in the end the extra PCB turned out to be a good idea. I built too complete keyboards from the other four PCBs.
 
 ![Bare PCB](images/BarePCB.png)
+
+### Diodes and Kaihl Sockets
+
+Soldering the diodes and the sockets was fairly easy. For the diodes, I would put down a little flux, put solder on the iron, and bring the solder to the
+diode while holding it down with tweezers. Sockets were done in the same way. They sockets are easier in that they sit nicely in the holes on the board. I
+still pushed down on them with the tweezers just to make sure they were flush.
+
+The circuit board is printed to show the correct location for the sockets and the correct direction for the diodes. This is a big help.
+
+![Diodes](images/Diodes.png)
+
+![PCB with diodes soldered on](images/PCBwithDiodes.png)
+
+![PCB with sockets soldered](images/PCBwithSockets.png)
+
+### MCU
+
+The original design of the Klor has the MCU mounted to the bottom of the circuit board. The case designs have a cut out for the MCU to hang down. I didn't
+really like this design. I wanted the MCU to be better protected. I also wanted to be able to access the boot and reset buttons on the KB2040. 
+
+![Stacked case bottom showing cut out for MCU](images/StackedCaseBottom.png)
+
+I started playing around in KiCAD to figure out how to mount the MCU on the top. However, the MCU is actually mounted right side up to the bottom of the
+keyboard. This means that the circuit board does not need to be redesigned to mount the MCU to the top. You just put the sockets on the top of the board.
+
+Since the board is double sided there are two possible locations for the sockets. I put the sockets on the bottom of the board like the original build
+directions say. I would then look at the top of the board to see where the pins would poking through. Then I would mount the socket to the top and solder
+it into place.
+
+Mounting the MCU to the top of the PCB meant that the original cases would need to be redesigned.
+
+![MCU and sockets attached](images/AttachedMCU.png)
+
 
 
 
