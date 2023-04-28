@@ -190,6 +190,10 @@ wires in the cable. The chance of that is most likely pretty small, but still it
 
 I decided to use the JST-SH Connector. These things are crazy small and I couldn't solder wires to them at all. They really need a breakout board. :-(
 
+| ![JST-SH Connector](images/SmallConnector.png) |
+|:--:|
+| *Small JST-SH Connector* |
+
 I'm not sure what I'm going to use instead. I might go back to the microphone/headset style cable. I'm also looking at magnetic connectors that Adafruit
 sells, but they are fairly big. [Magnetic connectors](https://www.adafruit.com/product/5358)
 
@@ -208,9 +212,24 @@ So, I **drilled holes** in the board to make this happen! That was rather scary.
 However, there is a cutout in the PCB for the USB socket to sit. For the second build, I decided I could route the wires through this cutout instead of
 drilling holes in the PCB. That seems like a much better idea.
 
+| ![Wires soldered to TRRS pads and holes for wires in PCB](images/WiresAndHoles.png) |
+|:--:|
+| *Wires soldered to TRRS pads and holes for wires in PCB* |
 
+| ![Wires soldered to TRRS pads](images/TRRSwires.png) |
+|:--:|
+| *Wires soldered to TRRS pads* |
 
+| ![Hard wired halves top view](images/HardWireTop.png) |
+|:--:|
+| *Hard wired halves top view* |
 
+| ![Hard wired halves bottom view](images/HardWireBottom.png) |
+|:--:|
+| *Hard wired halves bottom view* |
+
+Notice that the cable between the halves goes up and over to the other half. It is out of the way of where the mouse would be. I think this change is
+great. It will be even better when I have a connector and it isn't hard wired.
 
 
 
