@@ -178,7 +178,7 @@ of my co-workers has a keyboard with a similar design.
 After attaching the MCU, you can insert some switches and make sure everything is working. For a couple of the PCBs, I had to resolder a couple of the
 sockets to get a better connection.
 
-| ![Testing the Kaihl Box Navy switches](image/TestingSwitches) |
+| ![Testing the Kaihl Box Navy switches](images/TestingSwitches.png) |
 |:--:|
 | *Testing the switches* |
 
