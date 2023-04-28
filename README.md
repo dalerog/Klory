@@ -172,5 +172,23 @@ Mounting the MCU to the top of the PCB meant that the original cases would need 
 |:--:| 
 | *Showing the MCU attached to the socket on the left and the MCU sockets on the right.* |
 
+### TRRS
+
+I did not want to use the typical microphone/headset cable for communication between the keyboard halfs. I don't have a great reason for this, but I don't
+really like using a connector for a different purpose. There is also the case that as you pull the cable out power could be sent through one of the other
+wires in the cable. The chance of that is most likely pretty small.
+
+I decided to use the JST-SH Connector. These things are crazy small and I couldn't solder wires to them at all. They really need a breakout board. :-(
+
+I'm not sure what I'm going to use instead. I might go back to the microphone/headset style cable. I'm also looking at magnetic connectors that Adafruit
+sells, but they are fairly big.
+
+I also did not like where the TRRS socket was mounted. While the mounting location is typical of most split keyboards, I want to have my mouse between
+the keyboard halves and felt like the original location had the cable coming out into the area where my mouse should be. I decided to use wires to route
+the socket to come out under the MCU in the same location as the USB connector. I feel like this is a much better location. 
+
+Currently, the two halfs of both of my keyboards are hardwired. 
+
+
 
 
