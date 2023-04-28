@@ -153,7 +153,7 @@ The circuit board is printed to show the correct location for the sockets and th
 ### MCU
 
 The original design of the Klor has the MCU mounted to the bottom of the circuit board. The case designs have a cut out for the MCU to hang down. I didn't
-really like this design. I wanted the MCU to be better protected. I also wanted to be able to access the boot and reset buttons on the KB2040. 
+really like this design. I wanted the MCU to be better protected. I also wanted to be able to access the boot and reset buttons on the KB2040.
 
 ![Stacked case bottom showing cut out for MCU](images/StackedCaseBottom.png)
 |:--:| 
@@ -163,10 +163,13 @@ I started playing around in KiCAD to figure out how to mount the MCU on the top.
 keyboard. This means that the circuit board does not need to be redesigned to mount the MCU to the top. You just put the sockets on the top of the board.
 
 Since the board is double sided there are two possible locations for the sockets. I put the sockets on the bottom of the board like the original build
-directions say. I would then look at the top of the board to see where the pins would poking through. Then I would mount the socket to the top and solder
-it into place.
+directions say. I would then look at the top of the board to see where the pins would poke through. Then I would switch the socket to the top of the board
+and solder it into place.
 
-Mounting the MCU to the top of the PCB meant that the original cases would need to be redesigned.
+Mounting the MCU to the top of the PCB meant that the original cases would need to be redesigned. 
+
+After mounting the MCU to the top of the board, I discovered that having the MCU mounted right side up to the bottom of the PCB is a normal design. One
+of my co-workers has a keyboard with a similar design.
 
 | ![MCU and sockets attached](images/AttachedMCU.png) |
 |:--:| 
@@ -175,8 +178,8 @@ Mounting the MCU to the top of the PCB meant that the original cases would need 
 ### TRRS
 
 I did not want to use the typical microphone/headset cable for communication between the keyboard halfs. I don't have a great reason for this, but I don't
-really like using a connector for a different purpose. There is also the case that as you pull the cable out power could be sent through one of the other
-wires in the cable. The chance of that is most likely pretty small.
+like using a connector for a different purpose. There is also the case that as you pull the cable out power could be sent through one of the other
+wires in the cable. The chance of that is most likely pretty small, but still it seems a little hacky.
 
 I decided to use the JST-SH Connector. These things are crazy small and I couldn't solder wires to them at all. They really need a breakout board. :-(
 
@@ -187,7 +190,9 @@ I also did not like where the TRRS socket was mounted. While the mounting locati
 the keyboard halves and felt like the original location had the cable coming out into the area where my mouse should be. I decided to use wires to route
 the socket to come out under the MCU in the same location as the USB connector. I feel like this is a much better location. 
 
-Currently, the two halfs of both of my keyboards are hardwired. 
+Currently, the two halfs of both of my keyboards are hardwired. It is not very elegant, but it works.
+
+
 
 
 
