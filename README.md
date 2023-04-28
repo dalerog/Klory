@@ -175,6 +175,13 @@ of my co-workers has a keyboard with a similar design.
 |:--:| 
 | *Showing the MCU attached to the socket on the left and the MCU sockets on the right.* |
 
+After attaching the MCU, you can insert some switches and make sure everything is working. For a couple of the PCBs, I had to resolder a couple of the
+sockets to get a better connection.
+
+| ![Testing the Kaihl Box Navy switches](image/TestingSwitches) |
+|:--:|
+| *Testing the switches* |
+
 ### TRRS
 
 I did not want to use the typical microphone/headset cable for communication between the keyboard halfs. I don't have a great reason for this, but I don't
