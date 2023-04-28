@@ -184,13 +184,25 @@ wires in the cable. The chance of that is most likely pretty small, but still it
 I decided to use the JST-SH Connector. These things are crazy small and I couldn't solder wires to them at all. They really need a breakout board. :-(
 
 I'm not sure what I'm going to use instead. I might go back to the microphone/headset style cable. I'm also looking at magnetic connectors that Adafruit
-sells, but they are fairly big.
+sells, but they are fairly big. [Magnetic connectors](https://www.adafruit.com/product/5358)
 
 I also did not like where the TRRS socket was mounted. While the mounting location is typical of most split keyboards, I want to have my mouse between
 the keyboard halves and felt like the original location had the cable coming out into the area where my mouse should be. I decided to use wires to route
 the socket to come out under the MCU in the same location as the USB connector. I feel like this is a much better location. 
 
 Currently, the two halfs of both of my keyboards are hardwired. It is not very elegant, but it works.
+
+My original plan for my first keyboard was to solder wires to the TRRS pads. These were going to be soldered to the bottom of the PCB because that is
+where the TRRS jacks are mounted and the wires also need to be out of the way of the encoders. I then was going to solder these wires to the JST-SH
+connector under the MCU. However, the wires need to get to the other side of the board.
+
+So, I **drilled holes** in the board to make this happen! That was rather scary. It looks pretty cool though. :-)
+
+However, there is a cutout in the PCB for the USB socket to sit. For the second build, I decided I could route the wires through this cutout instead of
+drilling holes in the PCB. That seems like a much better idea.
+
+
+
 
 
 
