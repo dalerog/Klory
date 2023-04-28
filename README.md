@@ -126,7 +126,9 @@ The first PCB I soldered didn't work completely correctly. All the keys worked, 
 row and not just the thumbkey. I did a lot of debugging. All of the diodes were correct as far as I could determine. There is a possibility that it is a 
 grounding issue. So, in the end the extra PCB turned out to be a good idea. I built too complete keyboards from the other four PCBs.
 
-![Bare PCB](images/BarePCB.png)
+| ![Bare PCB](images/BarePCB.png) |
+|:--:| 
+| *Bare PCB* |
 
 ### Diodes and Kaihl Sockets
 
@@ -136,11 +138,17 @@ still pushed down on them with the tweezers just to make sure they were flush.
 
 The circuit board is printed to show the correct location for the sockets and the correct direction for the diodes. This is a big help.
 
-![Diodes](images/Diodes.png)
+| ![Diodes](images/Diodes.png) |
+|:--:| 
+| *The diodes are really small!* |
 
-![PCB with diodes soldered on](images/PCBwithDiodes.png)
+| ![PCB with diodes soldered on](images/PCBwithDiodes.png) |
+|:--:|
+| *Here is the PCB with diodes soldered to it.* |
 
-![PCB with sockets soldered](images/PCBwithSockets.png)
+| ![PCB with sockets soldered](images/PCBwithSockets.png) |
+|:--:|
+| *Now the PCB has the Kaihl switch sockets soldered to it.* |
 
 ### MCU
 
@@ -148,6 +156,8 @@ The original design of the Klor has the MCU mounted to the bottom of the circuit
 really like this design. I wanted the MCU to be better protected. I also wanted to be able to access the boot and reset buttons on the KB2040. 
 
 ![Stacked case bottom showing cut out for MCU](images/StackedCaseBottom.png)
+|:--:| 
+| *This is the laser cut buttom plate of the original case (in wood) showing the cut out for the MCU.* | 
 
 I started playing around in KiCAD to figure out how to mount the MCU on the top. However, the MCU is actually mounted right side up to the bottom of the
 keyboard. This means that the circuit board does not need to be redesigned to mount the MCU to the top. You just put the sockets on the top of the board.
@@ -158,8 +168,9 @@ it into place.
 
 Mounting the MCU to the top of the PCB meant that the original cases would need to be redesigned.
 
-![MCU and sockets attached](images/AttachedMCU.png)
-
+| ![MCU and sockets attached](images/AttachedMCU.png) |
+|:--:| 
+| *Showing the MCU attached to the socket on the left and the MCU sockets on the right.* |
 
 
 
