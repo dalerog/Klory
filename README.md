@@ -13,6 +13,10 @@ differences.
 
 Spoiler alert! I love Klory and am buiding a second for home.
 
+## Thanks!
+
+Of course, thanks to GEIST for making such a great keyboard. Thanks to Char for leading me down the rabbit hole. Thanks to Peter B. for help soldering diodes and hot swap sockets. Thanks Harlan for expertise in all things maker. 
+
 ## Why the Klor?
 
 I was using a Planck Ez. I had changed the keymap to a 3x5 layout in which I was not using the center 6 keys above the spacebar. I was using the equivalent of four (4) thumb keys in my layout. However, I felt that my thumbs were cramped as they had to fold under my hand to get to some of the keys.
