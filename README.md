@@ -15,7 +15,11 @@ Spoiler alert! I love Klory and am buiding a second for home.
 
 ## Thanks!
 
-Of course, thanks to GEIST for making such a great keyboard. Thanks to Char for leading me down the rabbit hole. Thanks to Peter B. for help soldering diodes and hot swap sockets. Thanks Harlan for expertise in all things maker. 
+Of course, thanks to GEIST for making such a great keyboard. 
+
+- Thanks to Char for leading me down the mechanical keyboard rabbit hole. 
+- Thanks to Peter B. for help soldering diodes and hot swap sockets. 
+- Thanks Harlan for expertise in all things maker. 
 
 ## Why the Klor?
 
