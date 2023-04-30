@@ -129,3 +129,8 @@ The encoders snap into the board very securely. It is a really nice fit. Solderi
 | ![Encoders Attached](/images/EncodersOnPCB.png) |
 |:--:|
 | *Encoder soldered onto PCB* |
+
+***
+
+[Back to Main Page](/README.md)
+
