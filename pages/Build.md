@@ -1,6 +1,6 @@
 # Build
 
-Details about building my Klor keyboard are on the [Build page](pages/Build.md).
+This section goes into details about the process of building Klory.
 
 ## PCB
 
@@ -14,7 +14,7 @@ The first PCB I soldered didn't work completely correctly. All the keys worked, 
 row and not just the thumbkey. I did a lot of debugging. All of the diodes were correct as far as I could determine. There is a possibility that it is a 
 grounding issue. So, in the end the extra PCB turned out to be a good idea. I built too complete keyboards from the other four PCBs.
 
-| ![Bare PCB](images/BarePCB.png) |
+| ![Bare PCB](/images/BarePCB.png) |
 |:--:| 
 | *Bare PCB* |
 
@@ -26,15 +26,15 @@ still pushed down on them with the tweezers just to make sure they were flush.
 
 The circuit board is printed to show the correct location for the sockets and the correct direction for the diodes. This is a big help.
 
-| ![Diodes](images/Diodes.png) |
+| ![Diodes](/images/Diodes.png) |
 |:--:| 
 | *The diodes are really small!* |
 
-| ![PCB with diodes soldered on](images/PCBwithDiodes.png) |
+| ![PCB with diodes soldered on](/images/PCBwithDiodes.png) |
 |:--:|
 | *Here is the PCB with diodes soldered to it.* |
 
-| ![PCB with sockets soldered](images/PCBwithSockets.png) |
+| ![PCB with sockets soldered](/images/PCBwithSockets.png) |
 |:--:|
 | *Now the PCB has the Kaihl switch sockets soldered to it.* |
 
@@ -43,7 +43,7 @@ The circuit board is printed to show the correct location for the sockets and th
 The original design of the Klor has the MCU mounted to the bottom of the circuit board. The case designs have a cut out for the MCU to hang down. I didn't
 really like this design. I wanted the MCU to be better protected. I also wanted to be able to access the boot and reset buttons on the KB2040.
 
-![Stacked case bottom showing cut out for MCU](images/StackedCaseBottom.png)
+![Stacked case bottom showing cut out for MCU](/images/StackedCaseBottom.png)
 |:--:| 
 | *This is the laser cut buttom plate of the original case (in wood) showing the cut out for the MCU.* | 
 
@@ -59,14 +59,14 @@ Mounting the MCU to the top of the PCB meant that the original cases would need 
 After mounting the MCU to the top of the board, I discovered that having the MCU mounted right side up to the bottom of the PCB is a normal design. One
 of my co-workers has a keyboard with a similar design.
 
-| ![MCU and sockets attached](images/AttachedMCU.png) |
+| ![MCU and sockets attached](/images/AttachedMCU.png) |
 |:--:| 
 | *Showing the MCU attached to the socket on the left and the MCU sockets on the right.* |
 
 After attaching the MCU, you can insert some switches and make sure everything is working. For a couple of the PCBs, I had to resolder a couple of the
 sockets to get a better connection.
 
-| ![Testing the Kaihl Box Navy switches](images/TestingSwitches.png) |
+| ![Testing the Kaihl Box Navy switches](/images/TestingSwitches.png) |
 |:--:|
 | *Testing the switches* |
 
@@ -78,7 +78,7 @@ wires in the cable. The chance of that is most likely pretty small, but still it
 
 I decided to use the JST-SH Connector. These things are crazy small and I couldn't solder wires to them at all. They really need a breakout board. :-(
 
-| ![JST-SH Connector](images/SmallConnector.png) |
+| ![JST-SH Connector](/images/SmallConnector.png) |
 |:--:|
 | *Small JST-SH Connector* |
 
@@ -100,19 +100,19 @@ So, I **drilled holes** in the board to make this happen! That was rather scary.
 However, there is a cutout in the PCB for the USB socket to sit. For the second build, I decided I could route the wires through this cutout instead of
 drilling holes in the PCB. That seems like a much better idea.
 
-| ![Wires soldered to TRRS pads and holes for wires in PCB](images/WiresAndHoles.png) |
+| ![Wires soldered to TRRS pads and holes for wires in PCB](/images/WiresAndHoles.png) |
 |:--:|
 | *Wires soldered to TRRS pads and holes for wires in PCB* |
 
-| ![Wires soldered to TRRS pads](images/TRRSwires.png) |
+| ![Wires soldered to TRRS pads](/images/TRRSwires.png) |
 |:--:|
 | *Wires soldered to TRRS pads* |
 
-| ![Hard wired halves top view](images/HardWireTop.png) |
+| ![Hard wired halves top view](/images/HardWireTop.png) |
 |:--:|
 | *Hard wired halves top view* |
 
-| ![Hard wired halves bottom view](images/HardWireBottom.png) |
+| ![Hard wired halves bottom view](/images/HardWireBottom.png) |
 |:--:|
 | *Hard wired halves bottom view* |
 
