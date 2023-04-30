@@ -31,6 +31,10 @@ Here are the pieces to the case.
 | MCU Cover Frame | 3D Printed | This is a frame to hole a cover for the MCU. It also covers the encoder hole. | |
 | MCU Cover | Laser Cut | Covers the MCU. | You could 3D print this with the part abhove. |
 
+***
+
+## Building
+
 | ![Parts for the case](/images/CaseParts.png) |
 |:--:| 
 | *Parts of the case except for the MCU cover.* |
@@ -78,7 +82,10 @@ happen.
 |:--:| 
 | *Keycaps installed* |
 
+## MCU Cover
 
+There are too designs for the MCU cover. One with no hole for the encoder and one with the encoder hole. The one for the encoder has a smaller cover for
+the MCU. You could modify the non-encoder version to have the smaller cover if you wanted.
 
 ***
 
