@@ -80,9 +80,12 @@ I decided to use the KB2040 from Adafruit. I picked it because it was cheap and 
 
 ## Parts
 
-Information about the parts I used and where I bought them is on the [Parts page](pages/Parts.md).
+Information about the parts I used and where I bought them is on the [Parts page](/pages/Parts.md).
 
 ## Build
 
-Details about building my Klor keyboard are on the [Build page](pages/Build.md).
+Details about building my Klor keyboard are on the [Build page](/pages/Build.md).
 
+## Building the Case
+
+Details about building the case are on the [Case Build page](/pages/CaseBuild.md)
