@@ -119,3 +119,13 @@ drilling holes in the PCB. That seems like a much better idea.
 Notice that the cable between the halves goes up and over to the other half. It is out of the way of where the mouse would be. I think this change is
 great. It will be even better when I have a connector and it isn't hard wired.
 
+## Encoders
+
+I've been using my first Klor keyboard for about a month without the encoders installed as I ordered them late. I just finished my second build and did
+install the encoders on that keyboard. I hope to put the encoders on the first keyboard soon. Probably after I figure out which knobs I want to use.
+
+The encoders snap into the board very securely. It is a really nice fit. Soldering them is easy.
+
+| ![Encoders Attached](/images/EncodersOnPCB.png) |
+|:--:|
+| *Encoder soldered onto PCB* |
