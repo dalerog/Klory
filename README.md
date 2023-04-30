@@ -80,6 +80,8 @@ I decided to use the KB2040 from Adafruit. I picked it because it was cheap and 
 
 ## Parts
 
+Information about the parts I used and where I bought them is [here](pages/Parts.md).
+
 Here is where I ordered the parts for my keyboard in the spring of 2023. This list will get stale overtime.
 
 | Part Name | Vender | Notes |
