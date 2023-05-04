@@ -19,7 +19,8 @@ Of course, thanks to GEIST for making such a great keyboard.
 
 - Thanks to Char for leading me down the mechanical keyboard rabbit hole. 
 - Thanks to Peter B. for help soldering diodes and hot swap sockets. 
-- Thanks Harlan for expertise in all things maker. 
+- Thanks Harlan for expertise in all things maker.
+- Thanks Rohit G for advice on standoffs.
 
 ## Why the Klor?
 
