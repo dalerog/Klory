@@ -24,9 +24,9 @@ Here are the pieces to the case.
 | Part | Build | Details | Notes |
 | --- | --- | --- | --- |
 | Bottom Plate | laser cut 1.6 mm acrylic or 3D printed | This piece is smaller than in the original Klor case. There are holes for M2 screws. | I laser cut mine from clear acrylic scrap |
-| Side Plate no hole | 3D printed | There are holes for M2 standoffs 9mm. | It has and "h" profile for the PCB to rest on. |
+| Side Plate no hole | 3D printed | There are holes for M2 standoffs 9mm. | It has an "h" profile for the PCB to rest on. |
 | PCB | | The PCB also has holes for the M2 standoffs. | |
-| Side Plate with hole | 3D printed | Hole is for the usb and TRRS connectors to go through | It also has "h" profile for switchplate to rest on. |
+| Side Plate with hole | 3D printed | Hole is for the usb and TRRS connectors to go through | It also has an "h" profile for switchplate to rest on. |
 | Switchplate | 1.6 mm acrylic or 3D printed | Have cutouts for the MCU to poke up through | I did both acrylic and 3D printing versions |
 | MCU Cover Frame | 3D Printed | This is a frame to hole a cover for the MCU. It also covers the encoder hole. | |
 | MCU Cover | Laser Cut | Covers the MCU. | You could 3D print this with the part abhove. |
