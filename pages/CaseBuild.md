@@ -89,5 +89,13 @@ the MCU. You could modify the non-encoder version to have the smaller cover if y
 
 ***
 
+## Finished Bottom View
+
+| ![Finished Bottom View](/images/BottomViewWithClearAcrylic.png) |
+|:--:| 
+| *Bottom view with clear acrylic* |
+
+***
+
 [Back to Main Page](/README.md)
 
