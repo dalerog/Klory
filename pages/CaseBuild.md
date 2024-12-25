@@ -89,7 +89,13 @@ the MCU. You could modify the non-encoder version to have the smaller cover if y
 
 ***
 
-## Finished Bottom View
+## Finished Views
+
+Here are some photos of the finished keyboards.
+
+### Finished Bottom View
+
+I chose to use clear acrylic for the bottom which really shows off the PCB. This is great when people are asking you about the keyboard.
 
 | ![Finished Bottom View](/images/BottomViewWithClearAcrylic.png) |
 |:--:| 
