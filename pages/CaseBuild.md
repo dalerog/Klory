@@ -103,6 +103,18 @@ happen.
 There are too designs for the MCU cover. One with no hole for the encoder and one with the encoder hole. The one for the encoder has a smaller cover for
 the MCU. You could modify the non-encoder version to have the smaller cover if you wanted.
 
+Here is a view of the switch plate and the mcu cover.
+
+| ![Switch plate and MCU cover](/images/switchPlateAndMcuCover.png) |
+|:--:|
+| **Switch plate and MCU cover** |
+
+This image shows the mcu covers and the acrylic windows to go over the MCUs.
+
+| ![MCU cover and acrylic windows](/images/McuCoverParts.png) |
+|:--:|
+| **MCU cover and acrylic windows** |
+
 ***
 
 ## Finished Views
