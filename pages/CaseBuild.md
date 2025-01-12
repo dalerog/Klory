@@ -119,7 +119,7 @@ I chose to use clear acrylic for the bottom which really shows off the PCB. This
 
 ### Clear vs Smoke MCU Window
 
-| ![Finished Klory](images/FirstKloryFinished.png) | | :--: | *Clear and Smoke MCU Windows* |
+| ![Finished Klory](/images/FirstKloryFinished.png) | | :--: | *Clear and Smoke MCU Windows* |
 
 ***
 
