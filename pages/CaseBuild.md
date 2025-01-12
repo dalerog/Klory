@@ -31,6 +31,22 @@ Here are the pieces to the case.
 | MCU Cover Frame | 3D Printed | This is a frame to hole a cover for the MCU. It also covers the encoder hole. | |
 | MCU Cover | Laser Cut | Covers the MCU. | You could 3D print this with the part abhove. |
 
+The source files for building the case can be found in the case folder. 
+
+* If you are laser cutting the switch plate (top) and bottom plate, you can use the files **BottomPlate.svg** and **SwitchPlate.svg**. 
+
+* The file **caseSides.scad** is an OpenSCAD file for generating the STL files for 3D printing the case. This one file will generate the four parts of the case that are needed. You can comment out lines if you only want to print one part at a time. 
+
+* The file **output/caseSides.stl** is the file for the 3D printer that was exported from **caseSides.scad**.
+
+* If you want to 3D print the top and bottom plate instead of laser cutting them, you can uncomment lines in caseSides.scad to generate them. You can find the output for these in the files **case/switchPlate.stl** and **case/bottomPlate.stl**. I didn't use these files in my build and it is possible that the height of these files are not the same as the acrylic that I used, so it might take some adjustment to work.
+
+* The file **mcuCover.scad** creates the cover for the MCU and encoder. There are multiple versions that you can create from this file depending on what you comment or uncomment. The file **case/mcuTopless.stl** is the output for a build without an encoder while **case/mcuTopLessWithEncoder.stl** is for builds with an encoder.
+
+    * These version do not have covers over the MCU, but require an acrylic window. You can uncomment some lines in the scad file to get          covers 3D printed. You would need to add screw holes as I didn't add those. You can always use a drill to add them.
+ 
+* If you are laser cutting acrylic for a window to see the MCU, use the files **mcuCoverInsert.svg** or **mcuCoverInsertWithEncoder.svg**. I used both clear and smoke acrylic and can't decide which looks better. Both look awesome!
+
 ***
 
 ## Building
