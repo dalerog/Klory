@@ -137,5 +137,24 @@ I chose to use clear acrylic for the bottom which really shows off the PCB. This
 
 ***
 
+### Encoder Knobs
+
+| ![Left encoder knob close up](/images/LeftEncoderCloseUp.png) |
+| :--: |
+| *Left encoder knob close up* |
+
+| ![Right encoder knob close up](/images/RightEncoderCloseUp.png) |
+| :--: |
+| *Right encoder knob close up* |
+***
+
+### Two Builds
+
+| ![Two completed builds](/images/BothBuilds.png) |
+| :--: |
+| *Two completed builds* |
+
+***
+
 [Back to Main Page](/README.md)
 
